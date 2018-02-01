@@ -1,0 +1,69 @@
+<!DOCTYPE>
+<html lang="en">
+
+<head>
+<title> Marion Neil Baluyut Figueroa </title>
+
+<link rel="stylesheet" type="text/css" href="css/legend.css"/>
+<link rel="icon" href="images/favicom.ico" type"favicon">
+
+</head>
+
+<body>
+
+<div id="container"> /*OPEN CONTAINER*/
+
+<div> 
+<img src="Images/marion1.jpg" width="300cm" length="1000cm">
+<img src="Images/logo1.jpg" width="30cm" length="30cm" style="float:right" >
+ </div>
+
+<div id="navigation">
+
+<ul id="navmenu">
+<li> <a href="home.html"> Home </a> </li>
+<li> <a href="https://www.facebook.com/FigueroaMarionNeil"> Facebook </a> </li>
+<li> <a href="https://www.instagram.com/"> Instagram </a> </li>
+<li> <a href="https://twitter.com/"> Twitter </a> </li>
+</ul>
+
+</div>
+<div  id="banner">  </div>
+
+<div id="content_area">
+<img src="Images/logo8.jpg" class="imgLeft">
+
+Meet Percy Jackson. He is twelve years old, and he decides to tell us the story of his past year. On the first day of summer, just after his sixth-grade year, Percy discovers that something is wrong with him. Or rather, something is right with him. He learns that he is a half-blood: half-human, half-god. He is taken to Camp Half-Blood in New York, a camp for kids just like him that is safe from monsters that like to attack half-bloods. 
+
+At camp, Percy learns more information about himself: his father is Poseidon, god of the Sea and brother to Zeus and Hades. When Zeus's master bolt (the thing that allows him to create lightning whenever he wants) is stolen, Poseidon is blamed for the theft. Zeus tells Poseidon that the master bolt must be returned to Mount Olympus by the summer solstice, or else he will declare war on Poseidon. Poseidon is miffed that his brother Zeus would even accuse him of such a thing.
+
+Percy sets out on a quest to retrieve Zeus's master bolt, which is believed to be in Hades's captivity in the Underworld. Helping Percy are Grover, his BFF, and Annabeth, a smart demi-goddess and daughter of Athena. The three take a bus, a train, a truck, and a taxi cab to make their way across America, from New York to Los Angeles, where the gates of the Underworld are located. They stop in St. Louis, Denver, and Las Vegas along the way. During their quest, they battle vicious monsters like Medusa, they find disaster on the observation deck of the Gateway Arch, they are tricked by the god of war (Ares), they nearly lose their memories in an enchanted Vegas casino, and they are almost stretched to death.
+
+Once in the Underworld, Percy finds that Hades does not have Zeus's master bolt, and he is missing his own symbol of power: the helm of darkness. Hades accuses Percy of stealing both the master bolt and the helm of darkness for his father, Poseidon. He accuses Poseidon of being power-hungry. To make things worse, the master bolt magically appears in Percy's backpack while he is talking to Hades. 
+
+<img src="Images/logo8.jpg" class="imgRight">
+After escaping Hades's wrath, Percy, Annabeth, and Grover encounter Ares, the god of war, on the Santa Monica beach. Percy questions Ares and discovers that Ares stole the master bolt and helm of darkness from the original thief (whose name we don't yet know). Ares has been tempted by the possibility of sparking one of the biggest wars of all time between the Big Three: Hades, Zeus, and Poseidon. Percy and Ares battle it out on the beach, and Percy wounds Ares, winning the helm of darkness. Ares curses Percy. 
+
+Percy returns the helm of darkness to Hades and takes a plane to New York City where he finds Mount Olympus on the 600th floor of the Empire State Building. Percy meets Poseidon and Zeus for the first time and tells them everything that he knows and suspects. He tells them that he believes Kronos, king of the Titans who ruled in the age before the Greek gods, is getting ready to wage war on the Olympians (the Greek gods and goddesses). Percy has been having dreams about Kronos in which Kronos talks to him. Zeus doesn't want to hear it. Poseidon tells Percy that he is proud of him and that he must make a choice when he goes home to his mom's apartment in Queens, NY.
+
+That summer at Camp Half-Blood, Percy has a great time living the life of a hero. He procrastinates making a decision about whether he will stay at Camp Half-Blood year round, or whether he will go home and live with his mom in Queens. 
+
+On the last day of camp, Percy is lured into the woods by his friend, Luke. Luke confesses to Percy that he was the original thief of the master bolt and the helm of darkness. He tells Percy that he serves Kronos and that Kronos is planning to defeat the Olympians and get rid of them. Luke vanishes, leaving a deadly scorpion to sting Percy. Percy nearly dies from this scorpion bite, but is rescued by wood nymphs who take him to safety. Percy's teacher, Chiron, nurses him back to health. Percy decides to go home and live with his mother for his seventh-grade year.
+ </div>
+
+<div id="sidebar">
+<img src="Images/logo8.jpg">
+<img src="Images/logo8.jpg">
+<img src="Images/logo8.jpg">
+</div>
+
+<div id="footer">
+
+<p> <i> <strong> Godbless :) </strong> </i>  </p>
+</div>
+
+</div>  /*END CONTAINER*/
+
+</body>
+
+</html>
